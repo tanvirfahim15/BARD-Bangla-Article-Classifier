@@ -3,7 +3,7 @@ Video Demo: <a href="https://bit.ly/BARD_VIDEO_DEMO"> bit.ly/BARD_VIDEO_DEMO </a
 Dataset Link: <a href="https://bit.ly/BARD_DATASET"> bit.ly/BARD_DATASET </a> <br/>
 
 <h2>Dataset Details</h2>
-<table>
+<table align="center">
 <tr>
 <td>Category  </td><td>  No. of Documents  </td><td>  No. of Words  </td><td>  Average Sentences per Document  </td><td>  Average words per Sentence</td>
 </tr><tr>
