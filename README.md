@@ -3,11 +3,11 @@ Video Demo: <a href="https://bit.ly/BARD_VIDEO_DEMO"> bit.ly/BARD_VIDEO_DEMO </a
 Dataset Link: <a href="https://bit.ly/BARD_DATASET"> bit.ly/BARD_DATASET </a> <br/>
 
 <h2>Dataset Details</h2>
-<table align="center">
+<table>
 <tr>
-<td>Category  </td><td>  No. of Documents  </td><td>  No. of Words  </td><td>  Average Sentences per Document  </td><td>  Average words per Sentence</td>
+<td align="center">Category  </td><td align="center">  No. of Documents  </td><td align="center">  No. of Words  </td><td align="center">  Average Sentences per Document  </td><td align="center">  Average words per Sentence</td>
 </tr><tr>
-<td>State </td><td>  242860  </td><td>  57019465  </td><td>  18.50  </td><td>  13.356</td>
+<td align="center">State </td><td align="center">  242860  </td><td align="center">  57019465  </td><td align="center">  18.50  </td><td align="center">  13.356</td>
 </tr>
 </table>
 
