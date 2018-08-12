@@ -1,5 +1,5 @@
 # BARD Bangla Article Classifier
-Video Demo: bit.ly/BARD_VIDEO_DEMO \n
+Video Demo: bit.ly/BARD_VIDEO_DEMO <br/>
 Dataset Link: bit.ly/BARD_DATASET
 
 In the literature article classification is well studied, where several supervised leaning models have been proposed by utilizing large textual data corpus. Despite several comprehensive textual dataset available for different language, only a few small datasets available for Bangla articles. As a result, a couple works address the Bangla document classification and could not able to learn sophisticated supervised learning model. In this work, we curated a large dataset of Bangla article which help us to train several supervised learning model using some sophisticate features, such as word2vec. As word2vec preserves semantic features, it shows superior performance in text classification. Moreover, Neural Network with word2vec features shows promising performance compared to other state-of-the-art-work in the text classification. 
