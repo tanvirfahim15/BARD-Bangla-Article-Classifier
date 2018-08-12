@@ -1,1 +1,1 @@
-# BARD-Bangla-Article-Classifier
+# BARD Bangla Article Classifier
