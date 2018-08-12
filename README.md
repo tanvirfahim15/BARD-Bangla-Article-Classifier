@@ -8,6 +8,14 @@ Dataset Link: <a href="https://bit.ly/BARD_DATASET"> bit.ly/BARD_DATASET </a> <b
 <td align="center">Category  </td><td align="center">  No. of Documents  </td><td align="center">  No. of Words  </td><td align="center">  Average Sentences per Document  </td><td align="center">  Average words per Sentence</td>
 </tr><tr>
 <td align="center">State </td><td align="center">  242860  </td><td align="center">  57019465  </td><td align="center">  18.50  </td><td align="center">  13.356</td>
+</tr><tr>
+<td align="center">Economy </td><td align="center">  18982  </td><td align="center"> 4915141  </td><td align="center">  20.18  </td><td align="center"> 13.378</td>
+</tr><tr>
+<td align="center">International </td><td align="center"> 32203  </td><td align="center"> 7096111  </td><td align="center">  18.47  </td><td align="center"> 12.493</td>
+</tr><tr>
+<td align="center">Entertainment </td><td align="center"> 31293  </td><td align="center"> 6706563  </td><td align="center">  21.70  </td><td align="center"> 10.236</td>
+</tr><tr>
+<td align="center">Sports </td><td align="center"> 50888 </td><td align="center"> 12397415  </td><td align="center"> 22.80  </td><td align="center"> 11.069</td>
 </tr>
 </table>
 
