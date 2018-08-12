@@ -1,2 +1,4 @@
 # BARD Bangla Article Classifier
-bit.ly/BARD_VIDEO_DEMO
+Video Demo: bit.ly/BARD_VIDEO_DEMO
+Dataset Link: bit.ly/BARD_DATASET
+
