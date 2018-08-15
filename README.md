@@ -24,4 +24,4 @@ In the literature article classification is well studied, where several supervis
 <br/>Furthermore, we deployed our proposed Bangla content classifier as a web application, which is accessible <a href="http://bard2018.pythonanywhere.com">here</a>.  and the video demo of this application is available <a href="https://bit.ly/BARD_VIDEO_DEMO">here</a>. Additionally, we open-sourced the <a href="https://bit.ly/BARD_DATASET">BARD dataset</a> and source code of this work in this repository.
 
 
-<iframe src ="https://www.google.com/"></iframe>
+
