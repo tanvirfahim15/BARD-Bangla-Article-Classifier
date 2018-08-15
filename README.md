@@ -27,6 +27,10 @@ In the literature article classification is well studied, where several supervis
 <h2>Statistical Analysis</h2>
 <figure>
   <img src="https://raw.githubusercontent.com/tanvirfahim15/BARD-Bangla-Article-Classifier/master/images/Stop%20words.png"  style="width:100%">
-  <figcaption>Figure 01: Most  frequent  words  in  each  categories.</figcaption>
+  <figcaption>Figure 01: Most frequent words in each categories.</figcaption>
+</figure>
+<figure>
+  <img src="https://raw.githubusercontent.com/tanvirfahim15/BARD-Bangla-Article-Classifier/master/images/WO%20Stop%20words.png"  style="width:100%">
+  <figcaption>Figure 02: Most frequent words in each categories after removing stop words.</figcaption>
 </figure>
 
