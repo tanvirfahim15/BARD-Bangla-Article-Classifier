@@ -29,9 +29,9 @@ In the literature article classification is well studied, where several supervis
   <img src="https://raw.githubusercontent.com/tanvirfahim15/BARD-Bangla-Article-Classifier/master/images/Stop%20words.png"  style="width:100%">
   <figcaption>Figure 01: Most frequent words in each categories.</figcaption>
 </figure>
-
+<br/><br/>
 We  performed  textual  statistical  analysis  on  the  BARDdataset  articles  and  results  are  presented  in  Fig.  1  and  2.  Thefrequency  distributions  of  the  top  20  most  frequent  words  foreach  of  the  five  categories  are  depicted  in  Fig.  1.  From  thisanalysis,  we  can  easily  identify  that  all  the  categories  havethe  similar  most  frequent  words.  In  other  words,  these  frequentwords  do  not  help  to  categorize  the  articles.  Hence,  we  removearound  25  most  frequent  from  all  the  articles  and  performedthe  statistical  analysis  again  on  the  filtered  dataset,  which  ispresented  in  Fig.  2.  Now,  this  filtered  frequency  distributiondepicted  that  each  category  has  some  unique  distribution  ofwords,  which  may  contribute  to  categorize  the  articles.
-
+<br/><br/>
 <figure>
   <img src="https://raw.githubusercontent.com/tanvirfahim15/BARD-Bangla-Article-Classifier/master/images/WO%20Stop%20words.png"  style="width:100%">
   <figcaption>Figure 02: Most frequent words in each categories after removing stop words.</figcaption>
